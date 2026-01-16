@@ -1,0 +1,12 @@
+Challenge 1
+CHALLENGE :WEB EXPLOITATION 
+CATEGORY EASY
+NAME INSPECT HTML
+
+Approach:
+The challenge was initiated by first opening the given website to understand its functionality.
+The webpage was then inspected using the browser’s developer tools. Upon examining the page 
+source code, the hidden flag was identified within the HTML content.
+
+RESULT after inspectecting the flag was revealed 
+Flag- picoCTF{1n5p3t0r_0f_h7ml_1fd8425b}
