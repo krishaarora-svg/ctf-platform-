@@ -1,0 +1,9 @@
+Challenge 
+CHALLENGE :CRYPTOGRAPHY
+CATEGORY EASY
+NAME numbers
+APPROACH - The challenge provides an encoded string and each number signifies an alphabet where a=1 and z=26
+Tools used - Manual Logic 
+RESULT after decoding the flag was revealed 
+Flag-picoCTF{thenumbersmason}
+
